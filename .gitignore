@@ -1,0 +1,5 @@
+# Variables de entorno
+.env
+
+# Datos
+data/users-score-2023.csv
